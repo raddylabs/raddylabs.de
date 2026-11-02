@@ -69,3 +69,5 @@ footer a { color: var(--muted); }
 .book h3 { font-size: 1rem; margin: 10px 0 2px; }
 .book p { margin: 0; font-size: 0.9rem; color: var(--muted); }
 .book .links { margin-top: 4px; }
+.bar-logo { width: 64px; height: 64px; border-radius: 12px; flex: none; display: block; }
+.bar-text { flex: 1; min-width: 180px; }
